@@ -1,7 +1,7 @@
 # Sistema de soporte a las decisiones - Guia de Uso e instalación
 
 ## Pre-requisitos
-1. Visual Studio: [Descarga Visaul Studio](https://visualstudio.microsoft.com/es/downloads/).
+1. Visual Studio: [Descarga Visual Studio](https://visualstudio.microsoft.com/es/downloads/).
 2. SQL Server Express: [link de descarga](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
    1. Instalar la versión express
    2. Durante la instalación dejar todo por default, excepto el tipo de autenticación:
