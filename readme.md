@@ -2,13 +2,17 @@
 
 ## Pre-requisitos
 1. Visual Studio: [Descarga Visual Studio](https://visualstudio.microsoft.com/es/downloads/).
+   1. Asegurese seleccionar Almacenamiento y procesamiento de datos y a la derecha solo seleccionan SQL Server Data Tools.
+    ![Extensiones](./imagenes/Visual%20Studio%20Installer.png)
+   3. Una vez instalado asegurese agregar las extensiones SQL Server Integration Services Projects y Microsoft Analysis Services Projects.
+   ![Extensiones](./imagenes/Extensiones.png)
 2. SQL Server Express: [link de descarga](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
    1. Instalar la versión express
    2. Durante la instalación dejar todo por default, excepto el tipo de autenticación:
          1. Usar Mixed Mode.
          2. Agregar una clave para acceso de SA.
 3. SQL Management studio: [link de descarga](https://aka.ms/ssmsfullsetup)
-4. Access: [descargar componente para Access](https://www.microsoft.com/es-ES/download/details.aspx?id=13255). 
+4. Access: [descargar componente para Access](https://www.microsoft.com/es-ES/download/details.aspx?id=13255)
 
 ## Archivos necesarios
 Para poder realizar el proceso, debe asegurarse de contar con los siguientes archivos:
