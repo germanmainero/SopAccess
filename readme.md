@@ -20,6 +20,23 @@ Para poder realizar el proceso, debe asegurarse de contar con los siguientes arc
    1. [Neptuno Access Database](./data_sources/Neptuno%20v2020.mdb)
    2. [Presupuesto de ventas](./data_sources/Presupuesto%20de%20Ventas_v2020_Conciliado.xlsx)
 2. Base de datos final
+   1. [Aurorita_DW](./database/Aurorita_DW.mdf)
+
+## Importar base de datos
+Abrir Microsoft SQL Management studio y conectarse a su localhost
+Una vez conectado, proceda a importar la base de datos [Aurorita_DW](./database/Aurorita_DW.mdf)
+
+En Databases haga click derecho y seleccione _"Attach"_
+
+![Presupuesto de ventas](./imagenes/Attach_DB.png)
+
+En la nueva ventana, busque el botón _Add_ para seleccionar un nuevo archivo _mdf_.
+
+![Presupuesto de ventas](./imagenes/Add%20db.png)
+
+Vamos a buscar y seleccionar nuestra base de datos [Aurorita_DW](./database/Aurorita_DW.mdf). Haremos click en _OK_ y luego nuevamente en _OK_ en la ventana que se abre. Luego nuestra base de datos estará importada.
+
+![Presupuesto de ventas](./imagenes/add%20file.png)
 
 ## Cómo correr el proceso
 
